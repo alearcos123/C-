@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506724245 source:c:\users\alearcos\desktop\ccc course\c++\homework 4\hw#4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
